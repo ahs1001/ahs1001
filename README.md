@@ -22,13 +22,13 @@ AI가 발전하는 것을 보고 관심이 생겨 AI부트캠브에 참가하여
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
 
 ## 진행중인 프로젝트
 - [Braind](https://github.com/sioscorial/braind.ing) <br>
   웹사이트 : https://braind.ing<br>
   사용자들이 업로드하는 사진을 분석하여 비슷한 스타일의 브랜드를 추천해주는 프로젝트입니다<br>
   인터넷에서 크롤링해온 다양한 패션 데이터들을 사용해서 사진속 옷의 스타일을 잘 분석할 수 있는 AI를 만들고 있습니다.
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)(https://github.com/ahs1001)]
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)(https://www.notion.so/MLOps-Engineer-2ef91d9ec15c49f1b45fb8288d765fef)]
