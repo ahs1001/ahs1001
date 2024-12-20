@@ -8,16 +8,16 @@ AI가 발전하는 것을 보고 관심이 생겨 AI부트캠브에 참가하여
 
 ---
 
-## ⚡기술스택
+## 기술스택
 
-# 자주 사용합니다
+### 자주 사용합니다
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-# 한때 자주 사용했습니다
+### 한때 자주 사용했습니다
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn]
 
-# 사용은 해봤습니다
+### 사용은 해봤습니다
 ![Naver_Cloud](https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat-square&logo=naver&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
